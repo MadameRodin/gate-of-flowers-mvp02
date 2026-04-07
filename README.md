@@ -38,3 +38,8 @@
 
 - 花材選択機能
 - 揺らぎ演出（時間の表現）
+
+## デモ動画
+
+https://github.com/user-attachments/assets/7e55c34d-2c13-4457-ae5d-e8ec3bda6cdd
+
